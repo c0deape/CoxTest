@@ -36,3 +36,4 @@ steps:
   inputs:
     testResultsFormat: 'VSTest'
     testResultsFiles: '**/TEST-*.xml'
+    failTaskOnFailedTests: true
