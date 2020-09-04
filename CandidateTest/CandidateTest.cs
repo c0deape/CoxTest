@@ -16,7 +16,7 @@ namespace CandidateTest
         }
 
         /// <summary>
-        /// Takes 2 string arrays returns 1 string array containing only unique names (remove duplicates).
+        /// Takes 2 string arrays returns 1 string array containing each name only once, in alphabetical order (remove duplicates).
         /// </summary>
         /// <param name="names1"></param>
         /// <param name="names2"></param>
