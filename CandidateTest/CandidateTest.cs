@@ -27,7 +27,7 @@ namespace CandidateTest
         }
 
         /// <summary>
-        /// Takes an input phrase, reverses it, and changes to "proper" case - eg "Correct horse battery stapler" becomes "Stapler battery horse correct"
+        /// Takes an input phrase, reverses it, and fixes capital letters, eg "Correct horse battery stapler" becomes "Stapler battery horse correct"
         /// </summary>
         /// <param name="input"></param>
         /// <returns></returns>
